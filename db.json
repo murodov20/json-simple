@@ -1,0 +1,140 @@
+{
+    "success": true,
+    "data": {
+      "blocks": [
+        {
+          "type": "video",
+          "src": {
+            "hls": "https://player02.getcourse.ru/player/934abd213b6b495b8c97e1384062ff63/5dfdc38743160d711ecb64ee433ad084/master.m3u8?user-cdn=cloudflare&acc-id=0&user-id=277521617&loc-mode=ru&version=5%3A2%3A1%3A1%3A2%3Acloudflare&consumer=vod&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyLWlkIjoyNzc1MjE2MTcsImNvbnN1bWVyIjoidm9kIn0.5h_WtOkx0E7DMbQ8vaa6yurV_OAeuYpAM0OFcxfCSU4&sid=nosid"
+          },
+          "resizeMode": "cover",
+          "controls": "compact",
+          "preferredQuality": 1080,
+          "id": "1559403552-0",
+          "style": {
+            "marginTop": 10,
+            "marginBottom": 10,
+            "alignSelf": "center"
+          },
+          "debug": null
+        },
+        {
+          "type": "text",
+          "text": "old block: 1559403475, type=lesson-audio",
+          "style": {
+            "color": "#999999"
+          },
+          "debug": null
+        },
+        {
+          "type": "image",
+          "src": {
+            "url": "https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/8ab1ed3fbede41dd3b062179928b8d49.jpeg/s/200x200/a/309503/sc/295"
+          },
+          "resizeMode": "cover",
+          "id": "1559403290-0",
+          "style": {
+            "marginTop": 10,
+            "marginBottom": 10,
+            "alignSelf": "center"
+          },
+          "debug": null
+        },
+        {
+          "type": "text",
+          "text": "Сущность и концепция маркетинговой программы, как принято считать, вырождена. Стратегическое планирование уравновешивает культурный имидж предприятия, используя опыт предыдущих кампаний. Высокая информативность создает межличностный маркетинг. Таргетирование определяет повседневный <strong>CTR</strong>, отвоевывая <em>рыночный</em> сегмент. Рейт-карта искажает из ряда вон выходящий бюджет на размещение",
+          "tokens": [
+            "Сущность и концепция маркетинговой программы, как принято считать, вырождена. Стратегическое планирование уравновешивает культурный имидж предприятия, используя опыт предыдущих кампаний. Высокая информативность создает межличностный маркетинг. Таргетирование определяет повседневный ",
+            {
+              "s": [
+                "bold"
+              ],
+              "v": "CTR"
+            },
+            ", отвоевывая ",
+            {
+              "s": [
+                "italic"
+              ],
+              "v": "рыночный"
+            },
+            " сегмент. Рейт-карта искажает из ряда вон выходящий бюджет на размещение"
+          ],
+          "id": "1559403895-0",
+          "style": {
+            "fontSize": "md"
+          },
+          "debug": null
+        },
+        {
+          "type": "text",
+          "text": "old block: 1559403124, type=lesson-feedback-block",
+          "style": {
+            "color": "#999999"
+          },
+          "debug": null
+        },
+        {
+          "type": "box",
+          "style": {
+            "flexDirection": "row"
+          },
+          "blocks": [
+            {
+              "type": "smart-icon",
+              "name": [
+                "fas",
+                "mobile-alt"
+              ],
+              "size": "md",
+              "style": {
+                "backgroundColor": "#5cb85c",
+                "color": "#ffffff"
+              },
+              "\u0000yii\\base\\Model\u0000_scenario": "default"
+            },
+            {
+              "type": "box",
+              "style": {
+                "flexDirection": "col",
+                "marginHorizontal": "5px",
+                "marginVertical": "5px"
+              },
+              "blocks": [
+                {
+                  "type": "text",
+                  "text": "Оптимизировано для смартфонов",
+                  "style": {
+                    "fontWeight": "bold"
+                  },
+                  "debug": null
+                },
+                {
+                  "type": "text",
+                  "text": "Показать исходную версию.",
+                  "style": {
+                    "marginTop": "10px"
+                  },
+                  "debug": null
+                }
+              ],
+              "debug": null
+            }
+          ],
+          "onClick": {
+            "route": "https://zhabibullin.mmurudov.gcrc.ru/teach/control/lesson/webview/id/259571733"
+          },
+          "debug": null
+        }
+      ],
+      "desktopLayout": "mobile",
+      "type": "blocks",
+      "icon": "7a4504abb013ff820caba4a49236955c.jpeg",
+      "style": {
+        "backgroundColor": "#F5F5F5"
+      },
+      "menuItems": [
+        
+      ]
+    }
+  }
